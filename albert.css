@@ -1,0 +1,51 @@
+h1 {
+  font-family: Ubuntu;
+  font-size: 50px;
+  text-align: left;
+  border: 2px solid;
+  background: url("https://cdn.history.com/sites/2/2015/10/GettyImages-548865165-E.jpeg");
+  background-size: cover;
+  padding: 250px 250px;
+}
+p {
+  font-family: Cabin;
+  font-size: 20px;
+}
+.timeline {
+  text-align: center;
+}
+ul {
+  font-family: Philosopher;
+  font-size: 22px;
+}
+.years {
+  background-color: #E6E6FA;
+  font-size: ;
+}
+.sub1 {
+  font-size: 28px;
+}
+.timeline{
+  font-size: 24px;
+}
+.tribute {
+  background-color: #F5F5DC;
+}
+.down {
+  text-align: center;
+  font-size: 29px;
+}
+.quote {
+  background-color: #000000;
+  text-align: center;
+}
+.true {
+  color: #ffffff;
+  font-family: Great Vibes;
+  font-size: 30px;
+}
+.sign {
+  color: #ffffff;
+  text-align: right;
+  font-family: Gloria Hallelujah;
+}

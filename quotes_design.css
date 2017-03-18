@@ -1,0 +1,40 @@
+.head1{
+  text-align:center;
+  color:#8B0000;
+  font-family: Philosopher;
+  font-size: 48px;
+}
+p{
+  text-align:center;
+  font-size: 28px;
+  font-style: italic;
+  font-family: Cookie, cursive;
+}
+.idiot{
+  border:2px solid #265723;
+}
+.head2{
+  text-align:center;
+  color:#8B0000;
+  font-family: Philosopher;
+  font-size: 48px;
+}
+.awesome1{
+  border:2px solid #265723;
+}
+.project{
+  border:4px solid #986254;
+  background-color: #B0C4DE;
+}
+.subscription{
+  text-align: left;
+}
+.question{
+  text-align: right;
+}
+.way1,.way2{
+  font-family: Roboto;
+}
+.right,.left{
+  text-align: left;
+}
