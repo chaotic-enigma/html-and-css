@@ -1,0 +1,19 @@
+body {
+  background-color: grey;
+}
+img {
+  width: 250px;
+  float: right;
+}
+.para {
+  padding: 65px;
+}
+.row {
+  padding: 20px;
+}
+.twitter,.code,.github,.stack {
+  width: 150px;
+}
+.foo,.foo1,.foo2 {
+  padding-right: 500px;
+}
